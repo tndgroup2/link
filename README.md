@@ -27,4 +27,7 @@
 ## Sample #5
 *[QS World University Rankings 2022](https://www.topuniversities.com/university-rankings/world-university-rankings/2022)*
 > This is a multi-page dynamic table with unwanted elements. Intended for you to learn to use Brave Browser's Brave Shield to block unwanted elements before Capturing.
-### ![image](https://user-images.githubusercontent.com/32707423/142765068-4fed1e9e-00d2-45c0-8897-abe3e44d9f37.png)
+### Before
+![image](https://user-images.githubusercontent.com/32707423/142765068-4fed1e9e-00d2-45c0-8897-abe3e44d9f37.png)
+### After
+![image](https://user-images.githubusercontent.com/32707423/142765154-d0de02d9-d43a-4cc5-9315-70052af06c90.png)
