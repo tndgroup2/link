@@ -33,7 +33,7 @@
 ![image](https://user-images.githubusercontent.com/32707423/142765154-d0de02d9-d43a-4cc5-9315-70052af06c90.png)
 
 ## Sample #6
-*[UMMoodle, Participant List of 2021-1-MGMT4009-001 Training and Development](https://ummoodle.um.edu.mo/user/index.php?id=120247)
+*[UMMoodle, Participant List of 2021-1-MGMT4009-001 Training and Development](https://ummoodle.um.edu.mo/user/index.php?id=120247)*
 > This is a one-page table with images we don't want. Intended for you to learn to capture table with unwanted images by adjusting Table Capture's option "Ignore images completely".
 ### Before
 ![image](https://user-images.githubusercontent.com/32707423/142765394-da971d27-e648-4190-b3d6-56c7c9e6e4b2.png)
