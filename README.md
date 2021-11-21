@@ -23,3 +23,8 @@
 *[World Health Organization - News](https://www.who.int/news)*
 > This is a multi-page dynamic table with link. Intended for you to learn to use Table Capture's Dynamic Table capture with Link Extraction.
 ### ![image](https://user-images.githubusercontent.com/32707423/142764682-bfc1f326-6575-4ca0-8c2e-be57c94d31cc.png)
+
+## Sample #5
+*[QS World University Rankings 2022](https://www.topuniversities.com/university-rankings/world-university-rankings/2022)*
+> This is a multi-page dynamic table with unwanted elements. Intended for you to learn to use Brave Browser's Brave Shield to block unwanted elements before Capturing.
+### ![image](https://user-images.githubusercontent.com/32707423/142765068-4fed1e9e-00d2-45c0-8897-abe3e44d9f37.png)
