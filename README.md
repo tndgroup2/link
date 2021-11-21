@@ -1,6 +1,9 @@
 # Here's the Link we will use for Workshop of Data Capturing & Processing on 22nd Nov
 **It includes web data samples and other used resources.**
 
+## [Submission Box](https://forms.office.com/r/pi41Ed4e6H)
+Please login with your UMPASS and upload your work here.
+
 ## Sample #1
 *[CWUR World University Rankings 2021-22](https://cwur.org/2021-22.php)*
 > This is an one-page basic HTML web table. Intended for you to test the functionality of Table Capture.
